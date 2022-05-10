@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou a @prietotatiele
+- 👀 Meu E-mail de contato é prietotatiele@gmail.com
+- 🌱 Eu estou interessada em aprender novas linguagens de propramação
+- 💞️ Atualmente estou aprendendo a linguagem do JavaScript e Scratch
